@@ -4,9 +4,13 @@ Projeto social que visa espalhar programação para escolas públicas, ONGs, CEU
 
 Qualquer pessoa pode implementar este projeto em qualquer lugar que achar importante.
 
-Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
+Ele é só um template para ensinarmos programação em qualquer lugar.
 
-Este projeto é um curso focado em ensinar programação para pessoas de regiões periféricas.
+Se você tem vontade de ensinar programação na sua quebrada, mas não tem ideia de como fazer isso, aqui temos tudo o que precisamos para tirar esse desejo do papel.
+
+Este projeto é um curso focado em ensinar programação para pessoas de regiões periféricas. Os projetos práticos desenvolvidos são focados em valorizarmos a periferia, como fazer os participantes pensarem sobre igualdade financeira, calcular o IMC de crianças para confirmar se elas precisam de acompanhamento médico, cadastro de animais da região para acompanhamento de zoonoses, lista de coisas maneiras que temos na nossa região, etc.
+
+> Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
 
 ## Missão
 
