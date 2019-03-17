@@ -12,6 +12,8 @@ Este projeto é um modelo para que possamos ensinar programação para pessoas d
 
 > Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
 
+## Sumário
+
 <!-- vscode-markdown-toc -->
 * [Missão](#Misso)
 * [Plus](#Plus)
