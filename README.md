@@ -12,11 +12,34 @@ Este projeto é um curso focado em ensinar programação para pessoas de regiõe
 
 > Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
 
-## Missão
+<!-- vscode-markdown-toc -->
+* [Missão](#Misso)
+* [Plus](#Plus)
+* [Dinâmica dos encontros](#Dinmicadosencontros)
+* [Objetivos](#Objetivos)
+* [Público alvo](#Pblicoalvo)
+* [Habilidades desenvolvidas](#Habilidadesdesenvolvidas)
+* [Competências desenvolvidas](#Competnciasdesenvolvidas)
+* [Conteúdo programático](#Contedoprogramtico)
+* [Método de ensino](#Mtododeensino)
+* [Tempo estimado](#Tempoestimado)
+* [Recursos necessários](#Recursosnecessrios)
+* [Método de avaliação](#Mtododeavaliao)
+* [Módulos](#Mdulos)
+* [Matriz curricular](#Matrizcurricular)
+* [Carga horária total](#Cargahorriatotal)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+## <a name='Misso'></a>Missão
 
 Ensinar desenvolvimento de software para pessoas com pouco ou nenhum acesso a educação formal para aprender programação, como cursos, livros, faculdade, eventos e afins, visando capacitá-las para o mercado de trabalho ou criar seu próprio negócio, produto, serviço.
 
-## Plus
+## <a name='Plus'></a>Plus
 
 Se às pessoas saírem com boa compreensão e influenciadas ao uso de software livre e desenvolvimento open source será um excelente plus.
 
@@ -24,7 +47,7 @@ No final do acompanhamento as pessoas saírem querendo ensinar o que aprenderam 
 
 Se surgir uma iniciativa social a partir das pessoas que participam do grupo, será um sucesso ainda maior.
 
-## Dinâmica dos encontros
+## <a name='Dinmicadosencontros'></a>Dinâmica dos encontros
 
 Fazemos encontros presenciais, semanais, para estudar programação e/ou desenvolver algo juntos.
 
@@ -34,7 +57,7 @@ Também utilizamos jogos e dinâmicas para estimular o trabalho em grupo, a comu
 
 Quem decide o que será aprendido (linguagem de programação, frameworks, etc) são as pessoas que participam do grupo no primeiro encontro do grupo. Caso essas pessoas não tenham nenhum conhecimento sobre o assunto, fazemos uma introdução às principais linguagens de mercado e em seguida estimulamos elas a decidirem isso baseado no interesse do coletivo.
 
-## Objetivos
+## <a name='Objetivos'></a>Objetivos
 
 - ensinar programação
 - ensinar boas práticas de desenvolvimento de software
@@ -45,11 +68,11 @@ Quem decide o que será aprendido (linguagem de programação, frameworks, etc) 
 - ensinar ética em desenvolvimento de software
 - preparar as pessoas para entrarem em um emprego como desenvolvedoras de software
 
-## Público alvo
+## <a name='Pblicoalvo'></a>Público alvo
 
 Pessoas de baixa renda.
 
-## Habilidades desenvolvidas
+## <a name='Habilidadesdesenvolvidas'></a>Habilidades desenvolvidas
 
 - Lógica de programação
 - Linguagens de programação
@@ -62,34 +85,34 @@ Pessoas de baixa renda.
 - Aprender testes de software para garantir a qualidade das suas entregas
 - Aprender a diferença entre features de linguagens e libs/frameworks
 
-## Competências desenvolvidas
+## <a name='Competnciasdesenvolvidas'></a>Competências desenvolvidas
 
 Utilizar Git e GitHub, conhecer o mercado de programação, criar um CRUD, conseguir identificar erros em código fonte, se candidatar a vagas de emprego como programadores(as), criar aplicações, serviços e aplicativos e serem capazes de criar seus próprios produtos.
 
-## Conteúdo programático
+## <a name='Contedoprogramtico'></a>Conteúdo programático
 
 Introdução a linha de comando, introdução a versionamento de código e Git, introdução a sistemas operacionais, desenvolvimento server e client-side, introdução a infraestrutura e bancos de dados, qualidade de software, modularização e modelagem de sistemas, testes de software, orientação a objetos, programação funcional.
 
-## Método de ensino
+## <a name='Mtododeensino'></a>Método de ensino
 
 - Aulas presenciais, vídeos aulas, exercícios práticos sobre cada aula
 - Projetos práticos para colocar no GitHub
 
-## Tempo estimado
+## <a name='Tempoestimado'></a>Tempo estimado
 
 5 ou 6 meses.
 
-## Recursos necessários
+## <a name='Recursosnecessrios'></a>Recursos necessários
 
 - espaço presencial com computadores com um sistema operacional Linux (de preferência Linux Mint ou Ubuntu) com usuários com permissões administrativas para instalarmos nossas ferramentas e acesso a internet
 - mentores que puxam o grupo e ministram as aulas
 - voluntários que ajudam os mentores a revisar código e monitorar as aulas
 
-## Método de avaliação
+## <a name='Mtododeavaliao'></a>Método de avaliação
 
 Projeto de conclusão de curso (desenvolvimento de uma web app simples) ou entrega de todos os projetos de andamento de aulas (projetos semanais que acontecem depois de cada aula).
 
-## Módulos
+## <a name='Mdulos'></a>Módulos
 
 1. Introdução a programação
 1. Testes de software
@@ -97,7 +120,7 @@ Projeto de conclusão de curso (desenvolvimento de uma web app simples) ou entre
 1. Tecnologias server side
 1. Tecnologias client side
 
-## Matriz curricular
+## <a name='Matrizcurricular'></a>Matriz curricular
 
 
 |Semana| Atividade | Prática (opcional) | Carga horária | 
@@ -118,7 +141,3 @@ Semana 12 | Tecnologias client side: JavaScript no navegador | Criar uma lâmpad
 Semana 13 | Tecnologias client side: DOM e APIs do navegador, diagramação com CSS | Criar uma página HTML de homenagem a alguém que gostamos muito, com layout corretamente renderizado, código semântico e subir no GitHub. | 4
 Semana 15 | Tecnologias client side: frameworks JS e CSS, SPAs | Criar uma SPA que lista nossos repositórios do GitHub, fazendo nosso portfólio bem diagramado (podendo utilizar algum framework para CSS também) e subir no GitHub. O código precisa ser bem estruturado, modular e testado. |18
 Semana 16 | Tecnologias client side: infraestrutura e hospedagem | Subir nosso portfólio em uma hospedagem gratuita. | 2
-
-## Carga horária total
-
-120 horas.
