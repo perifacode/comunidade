@@ -8,7 +8,7 @@ Ele é só um template para ensinarmos programação em qualquer lugar.
 
 Se você tem vontade de ensinar programação na sua quebrada, mas não tem ideia de como fazer isso, aqui temos tudo o que precisamos para tirar esse desejo do papel.
 
-Este projeto é um curso focado em ensinar programação para pessoas de regiões periféricas. Os projetos práticos desenvolvidos são focados em valorizarmos a periferia, como fazer os participantes pensarem sobre igualdade financeira, calcular o IMC de crianças para confirmar se elas precisam de acompanhamento médico, cadastro de animais da região para acompanhamento de zoonoses, lista de coisas maneiras que temos na nossa região, etc.
+Este projeto é um modelo para que possamos ensinar programação para pessoas de regiões periféricas. Os projetos práticos desenvolvidos são focados em valorizarmos a periferia, como fazer os participantes pensarem sobre igualdade, justiça social, calcular o IMC de crianças para confirmar se elas precisam de acompanhamento médico do SUS, cadastro de animais da região para acompanhamento de zoonoses, lista de coisas maneiras que temos na nossa região para movimentarmos a economia local, etc.
 
 > Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
 
@@ -28,6 +28,7 @@ Este projeto é um curso focado em ensinar programação para pessoas de regiõe
 * [Módulos](#Mdulos)
 * [Matriz curricular](#Matrizcurricular)
 * [Carga horária total](#Cargahorriatotal)
+* [Como implementar na minha quebrada](#Comoimplementarnaminhaquebrada)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -141,3 +142,15 @@ Semana 12 | Tecnologias client side: JavaScript no navegador | Criar uma lâmpad
 Semana 13 | Tecnologias client side: DOM e APIs do navegador, diagramação com CSS | Criar uma página HTML de homenagem a alguém que gostamos muito, com layout corretamente renderizado, código semântico e subir no GitHub. | 4
 Semana 15 | Tecnologias client side: frameworks JS e CSS, SPAs | Criar uma SPA que lista nossos repositórios do GitHub, fazendo nosso portfólio bem diagramado (podendo utilizar algum framework para CSS também) e subir no GitHub. O código precisa ser bem estruturado, modular e testado. |18
 Semana 16 | Tecnologias client side: infraestrutura e hospedagem | Subir nosso portfólio em uma hospedagem gratuita. | 2
+
+## <a name='Cargahorriatotal'></a>Carga horária total
+
+120 horas.
+
+## <a name='Comoimplementarnaminhaquebrada'></a>Como implementar na minha quebrada
+
+Você precisa encontrar um local com os [recursos necessários](#Recursosnecessrios) e se planejar para que tenha o tempo disponível ([estimativa](#Tempoestimado)) para executar o [plano de estudos](#Matrizcurricular).
+
+Recomendo que você procure pelos CEUs da sua região ou pela escola pública mais próxima da sua região.
+
+É importante que o espaço não seja longe para quem vai participar, nem para você e nem para os estudantes, pois isso vai reduzir a taxa de abandono do curso.
