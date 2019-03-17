@@ -2,6 +2,12 @@
 
 Projeto social que visa espalhar programação para escolas públicas, ONGs, CEUs e qualquer lugar que nos ceder espaço para estimular pessoas periféricas a aprender programação.
 
+Qualquer pessoa pode implementar este projeto em qualquer lugar que achar importante.
+
+Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
+
+Este projeto é um curso focado em ensinar programação para pessoas de regiões periféricas.
+
 ## Missão
 
 Ensinar desenvolvimento de software para pessoas com pouco ou nenhum acesso a educação formal para aprender programação, como cursos, livros, faculdade, eventos e afins, visando capacitá-las para o mercado de trabalho ou criar seu próprio negócio, produto, serviço.
