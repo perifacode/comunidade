@@ -12,7 +12,7 @@ Este projeto é um modelo para que possamos ensinar programação para pessoas d
 
 > Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
 
-## Sumário
+## <a name='Sumrio'></a>Sumário
 
 <!-- vscode-markdown-toc -->
 * [Missão](#Misso)
@@ -28,7 +28,7 @@ Este projeto é um modelo para que possamos ensinar programação para pessoas d
 * [Recursos necessários](#Recursosnecessrios)
 * [Método de avaliação](#Mtododeavaliao)
 * [Módulos](#Mdulos)
-* [Matriz curricular](#Matrizcurricular)
+* [Crônograma](#Crnograma)
 * [Carga horária total](#Cargahorriatotal)
 * [Como implementar na minha quebrada](#Comoimplementarnaminhaquebrada)
 
@@ -123,7 +123,7 @@ Projeto de conclusão de curso (desenvolvimento de uma web app simples) ou entre
 1. Tecnologias server side
 1. Tecnologias client side
 
-## <a name='Matrizcurricular'></a>Matriz curricular
+## <a name='Crnograma'></a>Crônograma
 
 
 |Semana| Atividade | Prática (opcional) | Carga horária | 
@@ -151,7 +151,7 @@ Semana 16 | Tecnologias client side: infraestrutura e hospedagem | Subir nosso p
 
 ## <a name='Comoimplementarnaminhaquebrada'></a>Como implementar na minha quebrada
 
-Você precisa encontrar um local com os [recursos necessários](#Recursosnecessrios) e se planejar para que tenha o tempo disponível ([estimativa](#Tempoestimado)) para executar o [plano de estudos](#Matrizcurricular).
+Você precisa encontrar um local com os [recursos necessários](#Recursosnecessrios) e se planejar para que tenha o tempo disponível ([estimativa](#Tempoestimado)) para executar o [plano de estudos](#Crnograma).
 
 Recomendo que você procure pelos CEUs da sua região ou pela escola pública mais próxima da sua região.
 
