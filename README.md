@@ -149,6 +149,8 @@ Os exercícios práticos não são obrigatórios para a conclusão do curso. A p
 
 Projeto de conclusão de curso (desenvolvimento de uma web app simples) ou entrega de todos os projetos de andamento de aulas (projetos semanais que acontecem depois de cada aula).
 
+Este projeto pode ser planejado junto aos alunos e alunas, para resolver algum problema pessoal deles.
+
 ## <a name='Mdulos'></a>Módulos
 
 1. Introdução a programação
