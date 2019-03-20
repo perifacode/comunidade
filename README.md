@@ -123,8 +123,12 @@ Introdução a linha de comando **>** introdução a versionamento de código e 
 
 ## <a name='Mtododeensino'></a>Método de ensino
 
-- Aulas presenciais, vídeos aulas, exercícios práticos sobre cada aula
+- Aulas presenciais, vídeos aulas, aulas de reforço online exercícios práticos sobre cada aula
 - Projetos práticos para colocar no GitHub
+
+Utilizamos o material encontrado aqui para ensinar presencialmente, mas também compartilhamos conteúdo que achamos relevante, como vídeo aulas, artigos, podcasts, etc. Caso alguém esteja passando por dificuldades em acompanhar a aula, podemos fazer reforço online ou podemos fazer aulas de revisão online para quem não conseguiu comparecer por algum motivo.
+
+Os exercícios práticos não são obrigatórios para a conclusão do curso. A pessoa pode participar como ouvinte e ir até o final, mesmo sem executar a prática, porém ela não vai aprender a programar de fato, só aprenderá teoria. Os exercícios práticos também existem para a criação do portfólio online destas pessoas, por isso é extremamente recomendável que elas o façam.
 
 ## <a name='Tempoestimado'></a>Tempo estimado
 
