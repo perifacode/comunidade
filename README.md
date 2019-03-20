@@ -24,6 +24,7 @@ Como um modelo para ensinar programação para pessoas de **regiões periférica
 	* [Agentes](#Agentes)
 		* [organizador(a)](#organizadora)
 		* [mentor(a)](#mentora)
+		* [Voluntários(as)](#Voluntriosas)
 		* [alunos(a)](#alunosa)
 * [Objetivos](#Objetivos)
 * [Público alvo](#Pblicoalvo)
@@ -77,7 +78,7 @@ Pessoa que trata de toda a parte organizacional dos encontros, como: encontrar u
 
 Pessoa que irá ensinar programação para os alunos, mentorar suas carreiras e lhes guiar nos exercícios práticos.
 
-#### Voluntários(as)
+#### <a name='Voluntriosas'></a>Voluntários(as)
 
 Pessoas que irão ajudar os mentores e mentoras revisando código de exercícios práticos dos alunos e alunas.
 
