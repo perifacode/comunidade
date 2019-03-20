@@ -1,16 +1,18 @@
 # { perifaCode }
 
-Projeto social que visa espalhar programação para escolas públicas, ONGs, CEUs e qualquer lugar que nos ceder espaço para estimular pessoas periféricas a aprender programação.
+Iniciativa open source social que visa espalhar programação para escolas públicas, ONGs, CEUs e qualquer lugar onde pudermos chegar para estimular pessoas periféricas a aprender programação.
 
-Qualquer pessoa pode implementar este projeto em qualquer lugar que achar importante.
+Qualquer pessoa pode implementar este projeto em qualquer lugar que achar possível.
 
-Ele é só um template para ensinarmos programação em qualquer lugar.
+Aqui temos um template para ensinarmos programação em qualquer lugar.
+
+Este documento contempla: estrutura do **programa perifaCode**, cronograma e materiais necessários para ensino.
 
 Se você tem vontade de ensinar programação na sua quebrada, mas não tem ideia de como fazer isso, aqui temos tudo o que precisamos para tirar esse desejo do papel.
 
-Este projeto é um modelo para que possamos ensinar programação para pessoas de regiões periféricas. Os projetos práticos desenvolvidos são focados em valorizarmos a periferia, como fazer os participantes pensarem sobre igualdade, justiça social, calcular o IMC de crianças para confirmar se elas precisam de acompanhamento médico do SUS, cadastro de animais da região para acompanhamento de zoonoses, lista de coisas maneiras que temos na nossa região para movimentarmos a economia local, etc.
+Como um modelo para ensinar programação para pessoas de **regiões periféricas**. Os projetos práticos desenvolvidos são focados em valorizarmos a periferia, como fazer os participantes pensarem sobre igualdade, justiça social, calcular o IMC de crianças para confirmar se elas precisam de acompanhamento médico do SUS, cadastro de animais da região para acompanhamento de zoonoses, lista de coisas maneiras que temos na nossa região para movimentarmos a economia local, etc.
 
-> Sinta-se a vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
+> Sinta-se à vontade para enviar pull requests de melhorias neste documento, abrir issues para tirar suas dúvidas.
 
 ## <a name='Sumrio'></a>Sumário
 
