@@ -43,11 +43,11 @@ Como um modelo para ensinar programação para pessoas de **regiões periférica
 
 ## <a name='Misso'></a>Missão
 
-Ensinar desenvolvimento de software para pessoas com pouco ou nenhum acesso a educação formal para aprender programação, como cursos, livros, faculdade, eventos e afins, visando capacitá-las para o mercado de trabalho ou criar seu próprio negócio, produto, serviço.
+Ensinar desenvolvimento de software para pessoas com pouco ou nenhum acesso a educação formal para aprender programação (como cursos, livros, faculdade, eventos e afins), visando capacitá-las para o mercado de trabalho ou criar seu próprio negócio, produto, serviço.
 
 ### <a name='Dobraameta'></a>Dobra a meta
 
-Se às pessoas saírem com boa compreensão e influenciadas ao uso de software livre e desenvolvimento open source será um excelente plus.
+Se às pessoas saírem com boa compreensão e influenciadas ao uso de **software livre** e desenvolvimento **open source** será um excelente plus à nossa missão.
 
 No final do acompanhamento as pessoas saírem querendo ensinar o que aprenderam e estarem politizadas quanto a necessidade de elas se moverem a favor dos grupos sub-representados em nossa sociedade.
 
