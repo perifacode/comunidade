@@ -115,7 +115,7 @@ Não é necessário conhecimento em inglês.
 
 ## <a name='Competnciasdesenvolvidas'></a>Competências desenvolvidas
 
-Utilizar Git e GitHub, conhecer o mercado de programação, criar um CRUD, conseguir identificar erros em código fonte, se candidatar a vagas de emprego como programadores(as), criar aplicações, serviços e aplicativos e serem capazes de criar seus próprios produtos.
+Utilizar Git e GitHub, conhecer o mercado de programação, criar CRUDs, conseguir identificar erros em código fonte, se candidatar a vagas de emprego como programadores(as), criar aplicações, serviços e aplicativos e/ou serem capazes de criar seus próprios produtos.
 
 ## <a name='Contedoprogramtico'></a>Conteúdo programático
 
