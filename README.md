@@ -17,8 +17,9 @@ Como um modelo para ensinar programação para pessoas de **regiões periférica
 ## <a name='Sumrio'></a>Sumário
 
 <!-- vscode-markdown-toc -->
+* [Sumário](#Sumrio)
 * [Missão](#Misso)
-* [Plus](#Plus)
+	* [Dobra a meta](#Dobraameta)
 * [Dinâmica dos encontros](#Dinmicadosencontros)
 * [Objetivos](#Objetivos)
 * [Público alvo](#Pblicoalvo)
@@ -44,7 +45,7 @@ Como um modelo para ensinar programação para pessoas de **regiões periférica
 
 Ensinar desenvolvimento de software para pessoas com pouco ou nenhum acesso a educação formal para aprender programação, como cursos, livros, faculdade, eventos e afins, visando capacitá-las para o mercado de trabalho ou criar seu próprio negócio, produto, serviço.
 
-## <a name='Plus'></a>Plus
+### <a name='Dobraameta'></a>Dobra a meta
 
 Se às pessoas saírem com boa compreensão e influenciadas ao uso de software livre e desenvolvimento open source será um excelente plus.
 
