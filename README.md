@@ -96,6 +96,10 @@ Pessoas que estão ali para aprender.
 
 Pessoas de baixa renda.
 
+Essas pessoas não precisam ter tido contato prévio com programação.
+
+Não é necessário conhecimento em inglês.
+
 ## <a name='Habilidadesdesenvolvidas'></a>Habilidades desenvolvidas
 
 - Lógica de programação
