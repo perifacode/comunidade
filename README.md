@@ -21,6 +21,10 @@ Como um modelo para ensinar programação para pessoas de **regiões periférica
 * [Missão](#Misso)
 	* [Dobra a meta](#Dobraameta)
 * [Dinâmica dos encontros](#Dinmicadosencontros)
+	* [Agentes](#Agentes)
+		* [organizador(a)](#organizadora)
+		* [mentor(a)](#mentora)
+		* [alunos(a)](#alunosa)
 * [Objetivos](#Objetivos)
 * [Público alvo](#Pblicoalvo)
 * [Habilidades desenvolvidas](#Habilidadesdesenvolvidas)
@@ -63,17 +67,17 @@ Também utilizamos jogos e dinâmicas para estimular o trabalho em grupo, a comu
 
 Durante o curso temos alguns agentes: organizador(a), mentor(a), alunos(as).
 
-### Agentes
+### <a name='Agentes'></a>Agentes
 
-#### organizador(a)
+#### <a name='organizadora'></a>organizador(a)
 
 Pessoa que trata de toda a parte organizacional dos encontros, como: encontrar um local para estudarmos, manter a comunicação ativa entre todos os participantes, desenrolar burocracias.
 
-#### mentor(a)
+#### <a name='mentora'></a>mentor(a)
 
 Pessoa que irá ensinar programação para os alunos, mentorar suas carreiras e lhes guiar nos exercícios práticos.
 
-#### alunos(a)
+#### <a name='alunosa'></a>alunos(a)
 
 Pessoas que estão ali para aprender.
 
