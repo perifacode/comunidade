@@ -77,6 +77,10 @@ Pessoa que trata de toda a parte organizacional dos encontros, como: encontrar u
 
 Pessoa que irá ensinar programação para os alunos, mentorar suas carreiras e lhes guiar nos exercícios práticos.
 
+#### Voluntários(as)
+
+Pessoas que irão ajudar os mentores e mentoras revisando código de exercícios práticos dos alunos e alunas.
+
 #### <a name='alunosa'></a>alunos(a)
 
 Pessoas que estão ali para aprender.
