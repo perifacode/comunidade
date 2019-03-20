@@ -119,7 +119,7 @@ Utilizar Git e GitHub, conhecer o mercado de programação, criar CRUDs, consegu
 
 ## <a name='Contedoprogramtico'></a>Conteúdo programático
 
-Introdução a linha de comando, introdução a versionamento de código e Git, introdução a sistemas operacionais, desenvolvimento server e client-side, introdução a infraestrutura e bancos de dados, qualidade de software, modularização e modelagem de sistemas, testes de software, orientação a objetos, programação funcional.
+Introdução a linha de comando **>** introdução a versionamento de código e Git **>** introdução a sistemas operacionais **>** desenvolvimento server e client-side **>** introdução a infraestrutura e bancos de dados **>** qualidade de software **>** modularização e modelagem de sistemas **>** testes de software **>** orientação a objetos **>** programação funcional.
 
 ## <a name='Mtododeensino'></a>Método de ensino
 
