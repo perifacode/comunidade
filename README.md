@@ -55,13 +55,27 @@ Se surgir uma iniciativa social a partir das pessoas que participam do grupo, se
 
 ## <a name='Dinmicadosencontros'></a>Dinâmica dos encontros
 
-Fazemos encontros presenciais, semanais, para estudar programação e/ou desenvolver algo juntos.
+Fazemos encontros presenciais, semanais, para estudar programação e/ou programar algo juntos.
 
-Utilizamos conceitos de agilidade (manifesto ágil) e processos de desenvolvimento de software o tempo todo, para que os/as participantes tenham contato com a realidade de um dia como programador(a).
+Utilizamos conceitos de agilidade (manifesto ágil) e processos de desenvolvimento de software o tempo todo, para que os/as participantes tenham contato com a realidade de um dia como pessoa desenvolvedora de software.
 
 Também utilizamos jogos e dinâmicas para estimular o trabalho em grupo, a comunicação e a união do time.
 
-Quem decide o que será aprendido (linguagem de programação, frameworks, etc) são as pessoas que participam do grupo no primeiro encontro do grupo. Caso essas pessoas não tenham nenhum conhecimento sobre o assunto, fazemos uma introdução às principais linguagens de mercado e em seguida estimulamos elas a decidirem isso baseado no interesse do coletivo.
+Durante o curso temos alguns agentes: organizador(a), mentor(a), alunos(as).
+
+### Agentes
+
+#### organizador(a)
+
+Pessoa que trata de toda a parte organizacional dos encontros, como: encontrar um local para estudarmos, manter a comunicação ativa entre todos os participantes, desenrolar burocracias.
+
+#### mentor(a)
+
+Pessoa que irá ensinar programação para os alunos, mentorar suas carreiras e lhes guiar nos exercícios práticos.
+
+#### alunos(a)
+
+Pessoas que estão ali para aprender.
 
 ## <a name='Objetivos'></a>Objetivos
 
