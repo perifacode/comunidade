@@ -8,9 +8,10 @@
 
 Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.
 
-Aqui temos compartilhamento e indicação para vagas de emprego na área de desenvolvimento de software, compartilhamento de conhecimento e apoio pessoal a quem vem de origem humilde.
+## Missão
 
-## Links
+Conectar pessoas de origem periférica, para que compartilhemos experiências, projetos, iniciativas (cursos, workshops, bootcamps), **vagas**, conteúdo (podcasts, vídeos, artigos, músicas) relacionado a programação ou cultura do gueto.
 
-- [Grupo/Chat](http://bit.ly/perifacode-group)
-- [Curso de programação para pessoas da perifa [em construção]](teach)
+## Como participar
+
+Você deve ler nosso [código de conduta](CONDUCT.md) e depois entrar no nosso grupo no [Telegram](http://bit.ly/perifacode-group).
