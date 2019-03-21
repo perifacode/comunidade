@@ -55,7 +55,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 A moderação se reserva o direito de verificar a autenticidade de usuários suspeito de cometer impersonation. A verificação será privada entre a moderação e o usuário.
 
-**Se você sofrer algum tipo de abuso, assédio, discriminação ou se sentir inseguro, fale com @woliveiras no Telegram.**
+**Se você sofrer algum tipo de abuso, assédio, discriminação ou se sentir inseguro, envie um email com o assunto DENUNCIA para contato@perifacode.com.**
 
 ## Sugestões e melhorias
 
