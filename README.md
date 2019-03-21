@@ -22,7 +22,9 @@ Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositóri
 
 Existem projetos extremamente maneiros que acreditamos que você deveria conhecer:
 
-- [Tecnogueto](https://www.tecnogueto.com.br/)
-- [QuebraDev](http://quebradev.com.br)
-- [AfrotechBR](https://twitter.com/afrotechbr)
-- [Codamos](https://www.codamos.club/)
+<p align="center">
+    <a href="https://www.tecnogueto.com.br"><img src="assets/logos/tecnogueto.png" alt="Tecnogueto Logo"></a>
+    <a href="https://www.quebradev.com.br"><img src="assets/logos/quebradev.png" alt="QuebraDev Logo"></a>
+    <a href="https://twitter.com/afrotechbr"><img src="assets/logos/afrotechbr.png" alt="AfroTechbr Logo"></a>
+    <a href="https://www.codamos.club/"><img src="assets/logos/codamos.png" alt="Codamos Logo"></a>
+</p>
