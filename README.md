@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/perifaCode.png" alt="perifaCode Logo">
+</p>
+
 # { perifaCode }
 
 > Comunidade de programação para pessoas de região ou origem periférica.
