@@ -17,3 +17,12 @@ Conectar pessoas de origem periférica, para que compartilhemos experiências, p
 Você deve ler nosso [código de conduta](CONDUCT.md) e depois entrar no nosso grupo no [Telegram](http://bit.ly/perifacode-group).
 
 Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositório ou enviar um email para contato@perifacode.com.
+
+## Talvez você goste de conhecer
+
+Existem projetos extremamente maneiros que acreditamos que você deveria conhecer:
+
+- [Tecnogueto](https://www.tecnogueto.com.br/)
+- [QuebraDev](http://quebradev.com.br)
+- [AfrotechBR](https://twitter.com/afrotechbr)
+- [Codamos](https://www.codamos.club/)
