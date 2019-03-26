@@ -8,6 +8,12 @@
 
 Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.
 
+## Sumário
+
+- [Missão](#missão)
+- [Como participar](#como-participar)
+- [Recomendações](#talvez-você-goste-de-conhecer)
+
 ## Missão
 
 Conectar pessoas de origem periférica, para que compartilhemos experiências, projetos, iniciativas (cursos, workshops, bootcamps), **vagas**, conteúdo (podcasts, vídeos, artigos, músicas) relacionado a programação ou cultura do gueto.
