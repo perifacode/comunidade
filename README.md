@@ -4,7 +4,7 @@
 
 # { perifaCode }
 
-> Comunidade de programação para pessoas de região ou origem periférica.
+> A comunidade de programação da periferia!
 
 Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para criar uma rede de apoio para conseguirmos vencer as barreiras sociais que nos limitam a entrada ou evolução na área de programação.
 
