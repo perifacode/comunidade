@@ -16,7 +16,13 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
 
 ## Missão
 
-Conectar pessoas de origem periférica, para que compartilhemos experiências, projetos, iniciativas (cursos, workshops, bootcamps), **vagas**, conteúdo (podcasts, vídeos, artigos, músicas) relacionado a programação ou cultura do gueto.
+Nossa missão é **inserir pessoas de origem periférica na área de programação**.
+
+Sabemos que a área de desenvolvimento de software é grande e continua crescendo muito. É uma área de acesso democrático, pois o conteúdo necessário para trabalhar com isso está quase sempre livre na internet, mas para pessoas periféricas falta ainda um certo apoio e acesso à informação.
+
+Como comunidade nós focamos em inserir essas pessoas o mais rápido no mercado de trabalho, pois temos vivência e confirmamos que depois que entramos nesta área a nossa vida mudou 100%.
+
+Nós estamos aqui para levar a informação para a periferia e servir de grupo de apoio para que essas pessoas tenham as oportunidades que não tiveram ainda para chegar nesse universo.
 
 ## Como participar
 
