@@ -20,7 +20,7 @@ Conectar pessoas de origem periférica, para que compartilhemos experiências, p
 
 ## Como participar
 
-Você deve ler nosso [código de conduta](CONDUCT.md) e depois entrar no nosso grupo no [Telegram](http://bit.ly/perifacode-group).
+Você deve ler nosso [código de conduta](CONDUCT.md) e depois se cadastrar na comunidade através deste formulário: [perifaCode - cadastro](http://bit.ly/cadastro-perifacode). No final do cadastramento você receberá o link de acesso ao nosso grupo.
 
 Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositório ou enviar um email para contato@perifacode.com.
 
