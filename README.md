@@ -18,9 +18,9 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
 
 Nossa missão é **inserir pessoas de origem periférica na área de programação**.
 
-Sabemos que a área de desenvolvimento de software é grande e continua crescendo muito. É uma área de acesso democrático, pois o conteúdo necessário para trabalhar com isso está quase sempre livre na internet, mas para pessoas periféricas falta ainda um certo apoio e acesso à informação.
+Sabemos que a área de desenvolvimento de software é grande e continua crescendo. É uma área de acesso democrático, pois o conteúdo necessário para trabalhar com isso está (quase sempre) livre e aberto na internet, mas para pessoas periféricas, com menos acesso a informação, ainda falta um certo apoio.
 
-Como comunidade nós focamos em inserir essas pessoas o mais rápido no mercado de trabalho, pois temos vivência e confirmamos que depois que entramos nesta área a nossa vida mudou 100%.
+Como comunidade nós focamos em inserir essas pessoas o mais rápido no mercado de trabalho, pois temos a vivência de pessoas que vieram da periferia e confirmamos que depois que entramos nesta área a nossa vida mudou 100%.
 
 Nós estamos aqui para levar a informação para a periferia e servir de grupo de apoio para que essas pessoas tenham as oportunidades que não tiveram ainda para chegar nesse universo.
 
