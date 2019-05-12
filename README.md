@@ -12,6 +12,7 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
 
 - [Missão](#missão)
 - [Como participar](#como-participar)
+- [Nossas redes sociais](#nossas-redes-sociais)
 - [Recomendações](#talvez-você-goste-de-conhecer)
 
 ## Missão
@@ -26,9 +27,22 @@ Nós estamos aqui para levar a informação para a periferia e servir de grupo d
 
 ## Como participar
 
-Você deve ler nosso [código de conduta](CONDUCT.md) e depois se cadastrar na comunidade através deste formulário: [perifaCode - cadastro](http://bit.ly/cadastro-perifacode). No final do cadastramento você receberá o link de acesso ao nosso grupo.
+1. Você deve ler nosso [código de conduta](CONDUCT.md)
+2. Se cadastrar na comunidade através deste formulário: [perifaCode - cadastro](http://bit.ly/cadastro-perifacode)
+3. No final do cadastramento você receberá o link de acesso ao nosso grupo do Telegram.
+
+Em nosso grupo falamos sobre temas diversos e discutimos ideias sobre o futuro da nossa comunidade, bem como eventos, cursos e ideias que podem apoiar gente como a gente.
 
 Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositório ou enviar um email para contato@perifacode.com.
+Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no nosso [fórum](https://forum.perifacode.com) que damos um jeito :blush:
+
+## Nossas redes sociais
+
+Quer ver o que já fazemos publicamente e / ou nos seguir? Pega ae:
+
+- [Twitter](https://twitter.com/perifacode)
+- [YouTube](https://www.youtube.com/channel/UCs4veOoKGYLyg1db8_YwhWw)
+- [Fórum](https://forum.perifacode.com)
 
 ## Talvez você goste de conhecer
 
