@@ -47,6 +47,21 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 - [YouTube](https://www.youtube.com/channel/UCs4veOoKGYLyg1db8_YwhWw)
 - [Fórum](https://forum.perifacode.com)
 
+## Coordenação da comunidade
+
+Essas são as pessoas responsáveis pela nossa comunidade:
+
+- Alexandre
+- Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
+- Carla Vieira: [@carlavieiradev](https://twitter.com/carlavieiradev)
+- Guilherme Vieira: [@vieirito](https://twitter.com/vieirito)
+- Junior Rocha: [@rotchajunior](https://twitter.com/rotchajunior)
+- Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
+- Kassia Tulio
+- William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
+
+Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
+
 ## Iniciativas que apoiamos
 
 Existem projetos extremamente maneiros que acreditamos que você deveria conhecer:
