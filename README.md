@@ -38,13 +38,15 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 
 ## Nossas redes sociais
 
-Quer ver o que já fazemos publicamente e / ou nos seguir? Pega ae:
-
 - [Twitter](https://twitter.com/perifacode)
+- [Facebook](https://facebook.com/perifacode)
+
+## Nosso conteúdo
+
 - [YouTube](https://www.youtube.com/channel/UCs4veOoKGYLyg1db8_YwhWw)
 - [Fórum](https://forum.perifacode.com)
 
-## Talvez você goste de conhecer
+## Iniciativas que apoiamos
 
 Existem projetos extremamente maneiros que acreditamos que você deveria conhecer:
 
