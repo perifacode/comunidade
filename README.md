@@ -14,6 +14,7 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
 - [Como participar](#como-participar)
 - [Nossas redes sociais](#nossas-redes-sociais)
 - [Nosso conteúdo](#nosso-conteúdo)
+- [Coordenação da comunidade](#coordenação-da-comunidade)
 - [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
 
 ## Missão
