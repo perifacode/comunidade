@@ -13,7 +13,8 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
 - [Missão](#missão)
 - [Como participar](#como-participar)
 - [Nossas redes sociais](#nossas-redes-sociais)
-- [Recomendações](#talvez-você-goste-de-conhecer)
+- [Nosso conteúdo](#nosso-conteúdo)
+- [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
 
 ## Missão
 
