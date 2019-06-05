@@ -55,7 +55,7 @@ Essas são as pessoas responsáveis pela nossa comunidade:
 - Alexandre
 - Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
-- Guilherme Vieira: [@vieirito](https://twitter.com/vieirito)
+- Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
 - Junior Rocha: [@rotchajunior](https://twitter.com/rotchajunior)
 - Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
 - Kassia Tulio
