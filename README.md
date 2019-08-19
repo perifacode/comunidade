@@ -61,6 +61,52 @@ Essas são as pessoas responsáveis pela nossa comunidade:
 - Kassia Tulio
 - William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
 
+## Nossas Frentes
+
+### Comunicação
+
+Área destinada a toda comunicação do perifaCode, por exemplo, redes sociais e lives.
+
+#### Coordenador responsável
+
+- Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
+- Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
+
+### Integrantes
+
+- Fabiana Rodrigues: [@frontfabijs](https://twitter.com/frontfabijs)
+- Bruna Santos: [@brunachris31](https://twitter.com/brunachris31)
+- Glauber Castro: [@glauberacastro](https://twitter.com/glauberacastro)
+- Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
+
+### Eventos
+
+Área destinada a todos os eventos realizados ou com participação do perifaCode, sejam eles hackathons, meetups, workshops e etc.
+
+#### Coordenador responsável
+
+- Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
+
+#### Integrantes 
+
+- Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
+- Melanie Miranda: [@meninah](https://t.me/@meninah)
+- Letícia Ferreira
+- Anderson Portela: [@andersportela](https://twitter.com/andersportela)
+
+### Educação
+
+Área destinada a todo conteúdo educacional realizado pelo perifaCode, como por exemplo, os cursos.
+
+#### Coordenador responsável
+- William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
+
+#### Integrantes
+- Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
+- Bruna Lanzarini
+- Brenda Xavier
+- Éber Freitas: [@eber_freitas](https://twitter.com/eber_freitas)
+
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
 
 ## Iniciativas que apoiamos
