@@ -45,7 +45,7 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 
 ## Nosso conteúdo
 
-- [YouTube](https://www.youtube.com/channel/UCs4veOoKGYLyg1db8_YwhWw)
+- [YouTube](https://www.youtube.com/c/perifaCode)
 - [Fórum](https://forum.perifacode.com)
 
 ## Coordenação da comunidade
