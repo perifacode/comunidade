@@ -14,7 +14,7 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
 - [Como participar](#como-participar)
 - [Nossas redes sociais](#nossas-redes-sociais)
 - [Nosso conteúdo](#nosso-conteúdo)
-- [Coordenação da comunidade](#coordenação-da-comunidade)
+- [Nossas frentes](#nossas-frentes)
 - [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
 
 ## Missão
@@ -48,17 +48,6 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 
 - [YouTube](https://www.youtube.com/c/perifaCode)
 - [Fórum](https://forum.perifacode.com)
-
-## Coordenação da comunidade
-
-Essas são as pessoas responsáveis pela nossa comunidade:
-
-- Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
-- Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
-- Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
-- Junior Rocha: [@rotchajunior](https://twitter.com/rotchajunior)
-- Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
-- William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
 
 ## Nossas Frentes
 
