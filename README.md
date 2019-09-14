@@ -29,7 +29,7 @@ Nós estamos aqui para levar a informação para a periferia e servir de grupo d
 
 ## Como participar
 
-1. Você deve ler nosso [código de conduta](CONDUCT.md)
+1. Você deve ler nosso [código de conduta](https://perifacode.com/COC)
 2. Se cadastrar na comunidade através deste formulário: [perifaCode - cadastro](http://bit.ly/cadastro-perifacode)
 3. No final do cadastramento você receberá o link de acesso ao nosso grupo do Telegram.
 
@@ -42,6 +42,7 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 
 - [Twitter](https://twitter.com/perifacode)
 - [Facebook](https://facebook.com/perifacode)
+- [Instagram](https://www.instagram.com/perifacode)
 
 ## Nosso conteúdo
 
@@ -52,13 +53,11 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 
 Essas são as pessoas responsáveis pela nossa comunidade:
 
-- Alexandre
 - Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
 - Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
 - Junior Rocha: [@rotchajunior](https://twitter.com/rotchajunior)
 - Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
-- Kassia Tulio
 - William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
 
 ## Nossas Frentes
