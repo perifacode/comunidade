@@ -61,7 +61,7 @@ Time de pessoas que cuida do perifaCode.
 - Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
 - Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
-- Melanie Miranda: [@meninah](https://t.me/@meninah)
+- Melanie Miranda: [@meninah](https://instagram.com/meninah.dev)
 - Letícia Ferreira
 - Anderson Portela: [@andersportela](https://twitter.com/andersportela)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
