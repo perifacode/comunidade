@@ -62,11 +62,12 @@ Time de pessoas que cuida do perifaCode.
 - Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
 - Melanie Miranda: [@meninah](https://t.me/@meninah)
-- Letícia Ferreira
+- Letícia Ferreira: [@leferreiiira1](https://twitter.com/leferreiiira1)
 - Anderson Portela: [@andersportela](https://twitter.com/andersportela)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
 - Bruna Lanzarini
 - Brenda Xavier
+- Roberson Miguel: [@biosbug](https://twitter.com/biosbug)
 - Éber Freitas: [@eber_freitas](https://twitter.com/eber_freitas)
 - William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
 
