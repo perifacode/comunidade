@@ -55,13 +55,12 @@ Time de pessoas que cuida do perifaCode.
 
 - Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
 - Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
-- Fabiana Rodrigues: [@frontfabijs](https://twitter.com/frontfabijs)
+- Fabiana Rodrigues: [@frontfabii](https://twitter.com/frontfabii)
 - Bruna Santos: [@brunachris31](https://twitter.com/brunachris31)
 - Glauber Castro: [@glauberacastro](https://twitter.com/glauberacastro)
 - Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
 - Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
-- Melanie Miranda: [@meninah](https://instagram.com/meninah.dev)
 - Letícia Ferreira
 - Anderson Portela: [@andersportela](https://twitter.com/andersportela)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
