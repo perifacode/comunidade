@@ -10,12 +10,14 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
 
 ## Sumário
 
-- [Missão](#missão)
-- [Como participar](#como-participar)
-- [Nossas redes sociais](#nossas-redes-sociais)
-- [Nosso conteúdo](#nosso-conteúdo)
-- [Organização](#organização)
-- [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
+- [{ perifaCode }](#perifacode)
+  - [Sumário](#sum%c3%a1rio)
+  - [Missão](#miss%c3%a3o)
+  - [Como participar](#como-participar)
+  - [Nossas redes sociais](#nossas-redes-sociais)
+  - [Nosso conteúdo](#nosso-conte%c3%bado)
+  - [Organização](#organiza%c3%a7%c3%a3o)
+  - [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
 
 ## Missão
 
@@ -31,7 +33,7 @@ Nós estamos aqui para levar a informação para a periferia e servir de grupo d
 
 1. Você deve ler nosso [código de conduta](https://perifacode.com/COC)
 2. Se cadastrar na comunidade através deste formulário: [perifaCode - cadastro](http://bit.ly/cadastro-perifacode)
-3. No final do cadastramento você receberá o link de acesso ao nosso grupo do Telegram.
+3. No final do cadastramento você receberá o link de acesso ao nosso grupo do Discord.
 
 Em nosso grupo falamos sobre temas diversos e discutimos ideias sobre o futuro da nossa comunidade, bem como eventos, cursos e ideias que podem apoiar gente como a gente.
 
@@ -55,13 +57,12 @@ Time de pessoas que cuida do perifaCode.
 
 - Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
 - Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
-- Fabiana Rodrigues: [@frontfabijs](https://twitter.com/frontfabijs)
+- Fabiana Rodrigues: [@frontfabii](https://twitter.com/frontfabii)
 - Bruna Santos: [@brunachris31](https://twitter.com/brunachris31)
 - Glauber Castro: [@glauberacastro](https://twitter.com/glauberacastro)
 - Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
 - Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
-- Melanie Miranda: [@meninah](https://t.me/@meninah)
 - Letícia Ferreira: [@leferreiiira1](https://twitter.com/leferreiiira1)
 - Anderson Portela: [@andersportela](https://twitter.com/andersportela)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
