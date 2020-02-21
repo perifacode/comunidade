@@ -69,7 +69,7 @@ Time de pessoas que cuida do perifaCode.
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
 - Bruna Lanzarini
 - Brenda Xavier
-- Roberson Miguel: [@sou_o_roberson](https://twitter.com/sou_o_roberson)
+- Roberson Miguel
 - William Oliveira: [@etc_william](https://twitter.com/etc_william)
 
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
