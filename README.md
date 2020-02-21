@@ -49,13 +49,13 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 ## Nosso conteúdo
 
 - [YouTube](https://www.youtube.com/c/perifaCode)
-- [Fórum](https://forum.perifacode.com)
+~~- [Fórum](https://forum.perifacode.com)~~ - Descontinuado. [Acesse nosso grupo do Discord](#como-participar)
 
 ## Organização
 
 Time de pessoas que cuida do perifaCode.
 
-- Andressa Neves: [@AndressaCPNeves](https://twitter.com/AndressaCPNeves)
+- Andressa Neves: [@backAnddy](https://twitter.com/backAnddy)
 - Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
 - Fabiana Rodrigues: [@frontfabii](https://twitter.com/frontfabii)
 - Bruna Santos: [@brunachris31](https://twitter.com/brunachris31)
@@ -63,14 +63,12 @@ Time de pessoas que cuida do perifaCode.
 - Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
 - Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
-- Letícia Ferreira: [@leferreiiira1](https://twitter.com/leferreiiira1)
 - Anderson Portela: [@andersportela](https://twitter.com/andersportela)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
 - Bruna Lanzarini
 - Brenda Xavier
-- Roberson Miguel: [@biosbug](https://twitter.com/biosbug)
-- Éber Freitas: [@eber_freitas](https://twitter.com/eber_freitas)
-- William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
+- Roberson Miguel: [@sou_o_roberson](https://twitter.com/sou_o_roberson)
+- William Oliveira: [@etc_william](https://twitter.com/etc_william)
 
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
 
