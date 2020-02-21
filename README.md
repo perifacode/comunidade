@@ -49,7 +49,9 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 ## Nosso conteúdo
 
 - [YouTube](https://www.youtube.com/c/perifaCode)
-~~- [Fórum](https://forum.perifacode.com)~~ - Descontinuado. [Acesse nosso grupo do Discord](#como-participar)
+
+O nosso antigo [Fórum](https://forum.perifacode.com) foi descontinuado. [Acesse nosso grupo do Discord](#como-participar)
+
 
 ## Organização
 
