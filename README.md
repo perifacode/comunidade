@@ -37,8 +37,7 @@ Nós estamos aqui para levar a informação para a periferia e servir de grupo d
 
 Em nosso grupo falamos sobre temas diversos e discutimos ideias sobre o futuro da nossa comunidade, bem como eventos, cursos e ideias que podem apoiar gente como a gente.
 
-Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositório ou enviar um email para contato@perifacode.com.
-Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no nosso [fórum](https://forum.perifacode.com) que damos um jeito :blush:
+Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositório ou enviar um email para contato@perifacode.com. :blush:
 
 ## Nossas redes sociais
 
@@ -50,7 +49,7 @@ Se você se sentir mais à vontade ou for mais fácil, pode deixar um post no no
 
 - [YouTube](https://www.youtube.com/c/perifaCode)
 
-O nosso antigo [Fórum](https://forum.perifacode.com) foi descontinuado. [Acesse nosso grupo do Discord](#como-participar)
+- [Acesse nosso grupo do Discord](#como-participar)
 
 
 ## Organização
