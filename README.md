@@ -56,20 +56,19 @@ Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositóri
 
 Time de pessoas que cuida do perifaCode.
 
-- Andressa Neves: [@backAnddy](https://twitter.com/backAnddy)
-- Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
-- Fabiana Rodrigues: [@frontfabii](https://twitter.com/frontfabii)
-- Bruna Santos: [@brunachris31](https://twitter.com/brunachris31)
-- Glauber Castro: [@glauberacastro](https://twitter.com/glauberacastro)
-- Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
-- Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
-- Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
 - Anderson Portela: [@andersportela](https://twitter.com/andersportela)
+- Andressa Neves: [@backAnddy](https://twitter.com/backAnddy)
+- Bruna Santos: [@brunachris31](https://twitter.com/brunachris31)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
-- Bruna Lanzarini
-- Brenda Xavier
-- Roberson Miguel
-- William Oliveira: [@etc_william](https://twitter.com/etc_william)
+- Fabiana Rodrigues: [@frontfabii](https://twitter.com/frontfabii)
+- Glauber Castro: [@glauberacastro](https://twitter.com/glauberacastro)
+- Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
+- Junior Rocha [@rotchajunior](https://twitter.com/rotchajunior)
+- Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
+- Letícia Ferreira: []()
+- Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
+- Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
+- Roberson Miguel: [@biosbug](https://twitter.com/biosbug)
 
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
 
