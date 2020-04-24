@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logos/perifaCode.png" alt="perifaCode Logo">
+    <img src="assets/logos/perifaCode.png" style="width: 200px"alt="perifaCode Logo">
 </p>
 
 # { perifaCode }
