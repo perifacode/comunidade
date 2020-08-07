@@ -67,8 +67,6 @@ Time de pessoas que cuida do perifaCode.
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
 - Letícia Ferreira: []()
 - Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
-- Luke Silva: [@cephalopodluke](https://twitter.com/cephalopodluke)
-- Roberson Miguel: [@biosbug](https://twitter.com/biosbug)
 
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
 
