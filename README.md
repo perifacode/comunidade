@@ -77,7 +77,7 @@ Existem projetos extremamente maneiros que acreditamos que você deveria conhece
 <p align="center">
     <a href="https://www.tecnogueto.com.br"><img src="assets/logos/tecnogueto.png" alt="Tecnogueto Logo"></a>
     <a href="https://www.quebradev.com.br"><img src="assets/logos/quebradev.png" alt="QuebraDev Logo"></a>
-    <a href="https://twitter.com/afrotechbr"><img src="assets/logos/afrotechbr.png" alt="AfroTechbr Logo"></a>
+    <a href="https://twitter.com/AfrOyaTech"><img src="assets/logos/AfrOyaTech.png" alt="AfrOyaTech Logo"></a>
     <a href="https://www.codamos.club/"><img src="assets/logos/codamos.png" alt="Codamos Logo"></a>
     <a href="https://www.codeclubbrasil.org.br/"><img src="assets/logos/codeclubbrasil.png" alt="CodeClub Brasil Logo"></a>
 </p>
