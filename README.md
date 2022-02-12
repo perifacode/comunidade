@@ -15,7 +15,6 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
   - [Missão](#miss%c3%a3o)
   - [Como participar](#como-participar)
   - [Nossas redes sociais](#nossas-redes-sociais)
-  - [Nosso conteúdo](#nosso-conte%c3%bado)
   - [Organização](#organiza%c3%a7%c3%a3o)
   - [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
 
@@ -28,6 +27,8 @@ Sabemos que a área de desenvolvimento de software é grande e continua crescend
 Como comunidade nós focamos em inserir essas pessoas o mais rápido no mercado de trabalho, pois temos a vivência de pessoas que vieram da periferia e confirmamos que depois que entramos nesta área a nossa vida mudou 100%.
 
 Nós estamos aqui para levar a informação para a periferia e servir de grupo de apoio para que essas pessoas tenham as oportunidades que não tiveram ainda para chegar nesse universo.
+
+Leia nosso manifesto: [perifacode.com/manifesto](https://perifacode.com/manifesto/)
 
 ## Como participar
 
@@ -45,28 +46,18 @@ Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositóri
 - [Facebook](https://facebook.com/perifacode)
 - [Instagram](https://www.instagram.com/perifacode)
 
-## Nosso conteúdo
-
-- [YouTube](https://www.youtube.com/c/perifaCode)
-
-- [Acesse nosso grupo do Discord](#como-participar)
-
-
 ## Organização
 
 Time de pessoas que cuida do perifaCode.
 
-- Anderson Portela: [@andersportela](https://twitter.com/andersportela)
-- Andressa Neves: [@backAnddy](https://twitter.com/backAnddy)
 - Bruna Santos: [@brunachris31](https://twitter.com/brunachris31)
-- Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
-- Fabiana Rodrigues: [@frontfabii](https://twitter.com/frontfabii)
 - Glauber Castro: [@glauberacastro](https://twitter.com/glauberacastro)
 - Guilherme Vieira: [@gitlherme](https://twitter.com/gitlherme)
-- Junior Rocha [@rotchajunior](https://twitter.com/rotchajunior)
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
-- Letícia Ferreira: []()
+- Letícia Ferreira: [@leticiaferreiras](https://www.linkedin.com/in/leticiaferreiras/)
 - Luís Ângelo: [@luisangelorjr](https://twitter.com/luisangelorjr)
+- Roberson Miguel: [@biosbug](https://twitter.com/biosbug)
+- William Oliveira: [@1ilhas](https://twitter.com/1ilhas)
 
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
 
