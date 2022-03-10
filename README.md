@@ -14,6 +14,7 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
   - [Sumário](#sum%c3%a1rio)
   - [Missão](#miss%c3%a3o)
   - [Como participar](#como-participar)
+  - [Eventos](#eventos)
   - [Nossas redes sociais](#nossas-redes-sociais)
   - [Organização](#organiza%c3%a7%c3%a3o)
   - [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
@@ -39,6 +40,12 @@ Leia nosso manifesto: [perifacode.com/manifesto](https://perifacode.com/manifest
 Em nosso grupo falamos sobre temas diversos e discutimos ideias sobre o futuro da nossa comunidade, bem como eventos, cursos e ideias que podem apoiar gente como a gente.
 
 Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositório ou enviar um email para contato@perifacode.com. :blush:
+
+## Eventos
+
+Durante nossos eventos, você pode se candidatar para fazer uma palestra, workshop ou qualquer coisa (pois a comunidade é sua também).
+
+Acesse este tópico do nosso grupo para entender como participar: [Como submeter sua palestra para um evento da perifaCode](https://github.com/perifacode/comunidade/discussions/21)
 
 ## Nossas redes sociais
 
