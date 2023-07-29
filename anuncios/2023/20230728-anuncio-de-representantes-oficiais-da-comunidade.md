@@ -1,8 +1,8 @@
 | Representantes oficiais do perifaCode em eventos | | 
 |--| -- |
 | Data de criação| 28/07/2023 |
-| Responsável | William Oliveira (@woliveiras) |
-| Aprovação |  |
+| Responsável | William Oliveira (@1ilhas) |
+| Aprovação | Luís Ângelo: @luisangelorjr, Roberson Miguel: @biosbug, Bruna Santos: @brunachris31, Glauber Castro: @glauberacastro, Guilherme Vieira: @gitlherme, Kamila Oliveira: @kamilah_santos |
 
 ---
 
