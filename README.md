@@ -14,10 +14,10 @@ Aqui reunimos pessoas que moram em periferias, favelas e guetos do Brasil para c
   - [Sumário](#sum%c3%a1rio)
   - [Missão](#miss%c3%a3o)
   - [Como participar](#como-participar)
-  - [Eventos](#eventos)
+  - [Anúncios](#anúncios)
+  <!-- - [Eventos](#eventos) -->
   - [Nossas redes sociais](#nossas-redes-sociais)
   - [Organização](#organiza%c3%a7%c3%a3o)
-  - [Iniciativas que apoiamos](#iniciativas-que-apoiamos)
 
 ## Missão
 
@@ -41,11 +41,15 @@ Em nosso grupo falamos sobre temas diversos e discutimos ideias sobre o futuro d
 
 Caso você queira sugerir qualquer coisa, pode abrir uma issue neste repositório ou enviar um email para contato@perifacode.com. :blush:
 
-## Eventos
+<!-- ## Eventos
 
 Durante nossos eventos, você pode se candidatar para fazer uma palestra, workshop ou qualquer coisa (pois a comunidade é sua também).
 
-Acesse este tópico do nosso grupo para entender como participar: [Como submeter sua palestra para um evento da perifaCode](https://github.com/perifacode/comunidade/discussions/21)
+Acesse este tópico do nosso grupo para entender como participar: [Como submeter sua palestra para um evento da perifaCode](https://github.com/perifacode/comunidade/discussions/21) -->
+
+## Anúncios
+
+Você pode acompanhar todos os nossos anúncios e diretrizes neste link: [anúncios](./anuncios).
 
 ## Nossas redes sociais
 
@@ -68,14 +72,3 @@ Time de pessoas que cuida do perifaCode.
 
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
 
-## Iniciativas que apoiamos
-
-Existem projetos extremamente maneiros que acreditamos que você deveria conhecer:
-
-<p align="center">
-    <a href="https://www.tecnogueto.com.br"><img src="assets/logos/tecnogueto.png" alt="Tecnogueto Logo"></a>
-    <a href="https://www.quebradev.com.br"><img src="assets/logos/quebradev.png" alt="QuebraDev Logo"></a>
-    <a href="https://twitter.com/AfrOyaTech"><img src="assets/logos/afrotechbr.png" alt="AfrOyaTech Logo"></a>
-    <a href="https://www.codamos.club/"><img src="assets/logos/codamos.png" alt="Codamos Logo"></a>
-    <a href="https://www.codeclubbrasil.org.br/"><img src="assets/logos/codeclubbrasil.png" alt="CodeClub Brasil Logo"></a>
-</p>
